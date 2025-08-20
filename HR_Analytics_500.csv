@@ -1,0 +1,501 @@
+EmployeeID,Age,Gender,Department,JobRole,Salary,YearsAtCompany,Promotions,WorkLifeBalance,JobSatisfaction,PerformanceRating,Attrition
+1001,39,Male,Sales,Sales Executive,6457,4,0,1,4,2,Yes
+1002,36,Male,Sales,Sales Executive,11995,6,2,4,2,3,No
+1003,49,Female,Sales,Sales Executive,7352,4,0,3,1,2,No
+1004,44,Female,Sales,Sales Representative,3511,14,4,1,4,2,No
+1005,45,Male,Operations,Operations Associate,3939,1,0,3,1,2,Yes
+1006,51,Female,Finance,Financial Analyst,5464,11,2,2,3,4,No
+1007,32,Male,Sales,Sales Manager,5477,14,3,3,2,4,No
+1008,24,Female,Sales,Sales Executive,9372,8,0,2,3,2,No
+1009,51,Male,Finance,Financial Analyst,7139,4,0,3,4,4,No
+1010,30,Female,HR,HR Manager,4289,1,0,2,2,4,No
+1011,46,Female,Operations,Operations Manager,10468,16,2,1,1,4,No
+1012,40,Female,HR,HR Manager,5391,14,0,3,2,4,Yes
+1013,54,Male,HR,Recruiter,5304,11,1,1,3,3,No
+1014,45,Female,Sales,Sales Executive,6723,1,0,1,1,4,No
+1015,30,Male,Sales,Sales Manager,10587,17,1,3,4,2,No
+1016,34,Female,Operations,Logistics Coordinator,9337,20,2,4,4,2,No
+1017,26,Female,IT,Data Analyst,3144,18,4,2,2,2,Yes
+1018,26,Male,Sales,Sales Executive,8213,2,0,3,4,2,Yes
+1019,52,Male,Operations,Logistics Coordinator,10549,13,1,1,1,4,No
+1020,48,Female,HR,HR Associate,3687,20,0,1,4,4,No
+1021,37,Male,HR,HR Manager,5916,17,3,2,4,2,No
+1022,37,Male,HR,HR Associate,10060,17,0,1,1,2,Yes
+1023,53,Female,IT,Software Architect,6302,12,0,2,4,2,No
+1024,51,Female,Finance,Financial Analyst,9730,17,3,2,2,3,Yes
+1025,56,Male,Sales,Sales Manager,7938,1,0,4,2,2,Yes
+1026,60,Male,IT,Software Engineer,6653,12,0,2,1,4,Yes
+1027,59,Female,Finance,Senior Accountant,7072,6,2,3,2,3,No
+1028,51,Female,IT,Data Scientist,3988,0,0,1,1,4,Yes
+1029,30,Female,Operations,Operations Associate,3927,7,1,3,2,3,No
+1030,55,Male,Operations,Logistics Coordinator,11886,9,0,2,3,2,No
+1031,57,Male,Sales,Sales Manager,7262,9,1,3,2,4,No
+1032,38,Male,Operations,Operations Associate,4312,20,3,3,1,2,No
+1033,32,Female,IT,Data Scientist,11838,13,4,1,1,2,Yes
+1034,45,Male,Operations,Operations Manager,9841,4,0,3,3,2,No
+1035,28,Female,IT,Data Analyst,11973,13,4,2,2,2,Yes
+1036,33,Female,Finance,Accountant,9545,7,1,2,1,3,Yes
+1037,34,Female,Finance,Accountant,8528,9,1,2,1,4,Yes
+1038,39,Male,Finance,Financial Analyst,7373,11,3,3,1,2,No
+1039,24,Male,IT,Data Scientist,9919,11,2,4,1,3,Yes
+1040,49,Male,HR,HR Manager,11318,17,1,3,4,2,No
+1041,42,Male,HR,Recruiter,7720,16,2,4,3,3,No
+1042,30,Male,HR,Recruiter,9688,12,1,3,4,4,No
+1043,40,Male,Sales,Sales Representative,9843,18,4,3,4,3,No
+1044,35,Female,Finance,Senior Accountant,5580,2,0,3,1,2,No
+1045,31,Male,IT,Data Analyst,3557,7,1,1,4,3,No
+1046,46,Female,Operations,Operations Manager,9347,7,0,1,1,3,Yes
+1047,25,Male,IT,Software Architect,4788,14,1,4,3,3,No
+1048,54,Female,Operations,Logistics Coordinator,11776,14,1,4,4,3,No
+1049,55,Female,IT,Data Scientist,6719,8,1,1,3,2,No
+1050,42,Male,HR,HR Associate,5067,4,0,4,2,4,Yes
+1051,48,Female,Sales,Sales Representative,11690,14,3,1,2,3,No
+1052,23,Female,Operations,Logistics Coordinator,10614,0,0,3,4,3,Yes
+1053,39,Female,Finance,Accountant,10756,0,0,3,4,4,Yes
+1054,56,Male,Finance,Accountant,9255,18,4,1,1,4,No
+1055,33,Male,IT,Software Architect,7062,12,2,2,4,3,No
+1056,39,Female,HR,HR Associate,6933,2,0,1,1,3,Yes
+1057,24,Male,Sales,Sales Manager,6851,6,0,2,2,2,No
+1058,35,Female,Sales,Sales Manager,6998,11,1,1,2,3,Yes
+1059,41,Female,Operations,Operations Manager,9298,6,0,2,1,4,No
+1060,58,Male,Operations,Operations Manager,8488,17,3,3,1,4,No
+1061,53,Male,Sales,Sales Representative,9902,11,3,2,4,2,No
+1062,39,Female,Operations,Logistics Coordinator,10416,13,4,3,3,2,No
+1063,50,Male,Sales,Sales Representative,10413,18,4,4,3,2,No
+1064,33,Female,Finance,Financial Analyst,6275,11,2,3,3,4,No
+1065,22,Male,HR,Recruiter,4202,7,2,4,4,4,No
+1066,53,Female,IT,Software Architect,3082,2,0,2,4,4,Yes
+1067,59,Female,HR,Recruiter,10553,17,4,3,4,4,No
+1068,44,Female,Operations,Operations Associate,7238,9,2,2,1,4,Yes
+1069,56,Male,HR,HR Manager,5938,6,2,4,3,4,No
+1070,60,Female,Operations,Logistics Coordinator,4447,6,1,2,3,2,No
+1071,56,Male,HR,HR Manager,7294,1,0,3,2,4,No
+1072,58,Female,Sales,Sales Executive,10490,15,3,3,2,2,No
+1073,26,Female,Finance,Accountant,10856,2,0,2,2,4,No
+1074,29,Female,Sales,Sales Executive,6497,16,3,4,4,3,No
+1075,41,Male,Operations,Operations Associate,4425,6,2,2,3,4,No
+1076,37,Male,Sales,Sales Executive,11843,2,0,1,4,3,No
+1077,36,Female,HR,HR Manager,7432,14,0,2,3,4,No
+1078,34,Female,Operations,Logistics Coordinator,4680,17,1,2,3,2,No
+1079,32,Female,Sales,Sales Executive,7528,14,0,4,3,4,No
+1080,54,Female,Finance,Financial Analyst,9972,2,0,4,3,4,No
+1081,36,Male,Sales,Sales Executive,7215,18,0,2,4,4,No
+1082,33,Female,Finance,Financial Analyst,10856,2,0,3,4,3,No
+1083,43,Female,Sales,Sales Executive,10917,9,3,1,4,2,No
+1084,42,Male,HR,HR Associate,9422,16,0,4,4,2,No
+1085,53,Female,IT,Data Scientist,3645,6,1,2,3,3,No
+1086,23,Male,Finance,Accountant,5394,9,0,4,1,2,Yes
+1087,31,Female,Finance,Accountant,7581,16,2,4,4,3,No
+1088,57,Male,IT,Software Architect,9084,6,2,2,1,3,No
+1089,39,Male,HR,Recruiter,7434,9,3,2,4,4,No
+1090,43,Female,Finance,Financial Analyst,10260,10,1,2,4,2,No
+1091,42,Female,Finance,Accountant,9046,12,1,4,1,2,No
+1092,28,Female,Sales,Sales Representative,3051,4,1,2,1,3,No
+1093,47,Male,HR,Recruiter,8183,17,3,3,4,4,No
+1094,26,Male,Sales,Sales Manager,7508,7,2,1,4,2,No
+1095,32,Female,Sales,Sales Representative,3274,1,0,1,3,3,No
+1096,37,Female,Finance,Accountant,5750,5,0,1,4,4,No
+1097,59,Male,IT,Software Architect,6604,14,2,4,3,4,No
+1098,40,Male,Sales,Sales Representative,4010,14,2,3,4,4,No
+1099,41,Male,HR,HR Associate,9102,15,0,2,4,4,No
+1100,40,Female,HR,Recruiter,3159,12,2,1,1,4,No
+1101,60,Female,HR,HR Manager,6388,20,1,3,2,4,Yes
+1102,50,Male,Sales,Sales Representative,8777,4,0,3,3,4,No
+1103,30,Female,IT,Data Analyst,11497,16,2,2,3,3,No
+1104,43,Male,HR,Recruiter,10473,2,0,2,4,4,No
+1105,22,Female,Sales,Sales Representative,11591,3,1,3,3,4,No
+1106,36,Female,HR,HR Manager,3210,19,4,3,2,4,Yes
+1107,41,Female,Finance,Senior Accountant,4711,4,0,1,3,3,Yes
+1108,56,Male,Sales,Sales Executive,9167,14,2,4,2,3,Yes
+1109,48,Female,Finance,Senior Accountant,3336,11,1,4,4,2,No
+1110,45,Female,HR,HR Manager,3792,12,2,2,1,3,Yes
+1111,25,Female,IT,Software Engineer,6790,4,0,1,2,4,Yes
+1112,31,Male,IT,Data Scientist,7342,4,0,3,2,2,Yes
+1113,44,Male,IT,Software Engineer,8104,0,0,3,1,2,No
+1114,26,Female,Operations,Operations Manager,10144,11,0,4,2,4,Yes
+1115,51,Male,Operations,Operations Associate,3796,15,3,4,1,3,No
+1116,42,Male,Sales,Sales Executive,3876,4,1,3,4,4,No
+1117,60,Female,Finance,Senior Accountant,4424,3,0,4,4,2,No
+1118,47,Female,HR,HR Associate,4357,10,3,3,3,3,No
+1119,26,Male,IT,Software Architect,4198,2,0,1,3,2,Yes
+1120,57,Female,Operations,Logistics Coordinator,4802,13,2,4,1,3,No
+1121,58,Male,HR,HR Manager,5335,15,1,1,3,4,No
+1122,39,Male,HR,HR Manager,9830,17,4,1,3,2,No
+1123,41,Female,IT,Data Scientist,8551,0,0,2,4,2,Yes
+1124,55,Male,Sales,Sales Executive,8963,13,3,3,2,3,No
+1125,60,Male,HR,Recruiter,3661,4,0,1,1,3,No
+1126,60,Female,Finance,Financial Analyst,9585,8,0,1,3,3,No
+1127,59,Female,Sales,Sales Representative,11433,9,0,2,4,4,No
+1128,35,Female,Sales,Sales Executive,6260,4,1,3,3,2,Yes
+1129,49,Male,Finance,Senior Accountant,4916,12,4,2,3,2,No
+1130,24,Female,Finance,Senior Accountant,3107,14,0,3,4,4,No
+1131,48,Female,Finance,Senior Accountant,4687,12,0,3,2,4,No
+1132,49,Male,HR,HR Manager,6786,13,4,4,1,3,No
+1133,43,Male,HR,HR Manager,4051,16,0,2,3,3,No
+1134,28,Male,IT,Data Analyst,6993,6,0,2,1,2,No
+1135,59,Female,Finance,Senior Accountant,8095,20,2,2,4,2,No
+1136,41,Female,Finance,Financial Analyst,3720,11,0,3,4,3,No
+1137,45,Female,Sales,Sales Executive,4057,20,0,4,4,4,No
+1138,24,Female,Operations,Logistics Coordinator,5884,10,3,2,1,3,Yes
+1139,27,Male,HR,Recruiter,3441,7,2,4,4,4,No
+1140,32,Female,Operations,Logistics Coordinator,8908,9,3,4,3,4,No
+1141,43,Male,Operations,Operations Manager,8201,3,1,3,3,4,Yes
+1142,59,Male,HR,HR Manager,8531,9,3,2,1,3,No
+1143,55,Male,HR,HR Manager,9737,16,2,1,3,3,No
+1144,43,Female,IT,Data Analyst,5945,7,0,2,1,3,Yes
+1145,55,Male,Operations,Logistics Coordinator,8317,19,1,4,2,2,Yes
+1146,50,Male,Operations,Operations Manager,9531,11,1,4,3,4,No
+1147,56,Male,Finance,Accountant,7870,15,1,3,4,3,No
+1148,54,Female,HR,HR Associate,5455,6,2,2,3,2,No
+1149,57,Male,Finance,Financial Analyst,11252,3,1,1,2,3,No
+1150,49,Male,Operations,Operations Manager,6437,14,2,1,4,2,No
+1151,45,Male,Finance,Senior Accountant,9126,2,0,2,1,3,Yes
+1152,30,Male,HR,HR Manager,7500,15,1,4,4,4,No
+1153,23,Female,Sales,Sales Executive,6333,4,1,1,3,2,No
+1154,37,Female,Sales,Sales Executive,10289,2,0,4,1,4,Yes
+1155,49,Male,IT,Data Scientist,8580,7,2,4,2,4,Yes
+1156,26,Male,Operations,Operations Associate,9197,15,0,4,3,3,No
+1157,26,Female,Sales,Sales Representative,6750,20,0,3,2,2,No
+1158,33,Female,Operations,Operations Associate,10640,20,1,2,1,4,No
+1159,34,Male,Sales,Sales Representative,6068,1,0,3,4,4,No
+1160,34,Female,HR,HR Manager,8648,1,0,3,1,3,No
+1161,50,Female,Finance,Senior Accountant,8354,5,1,4,3,4,No
+1162,49,Male,HR,HR Manager,9855,19,1,3,3,2,No
+1163,40,Female,Sales,Sales Representative,10105,19,3,2,4,3,No
+1164,44,Female,Finance,Accountant,7298,20,0,1,4,3,No
+1165,32,Male,Operations,Logistics Coordinator,5139,19,3,1,2,2,Yes
+1166,46,Male,HR,HR Associate,5313,14,2,3,4,2,No
+1167,55,Female,Operations,Operations Manager,9321,10,2,2,1,2,Yes
+1168,46,Male,Finance,Senior Accountant,7088,8,2,4,2,4,No
+1169,29,Male,Finance,Accountant,4013,14,1,4,1,4,No
+1170,26,Female,HR,Recruiter,7714,5,0,3,2,2,Yes
+1171,53,Male,IT,Data Analyst,8712,17,4,3,4,4,No
+1172,26,Female,IT,Software Engineer,9323,15,4,4,4,4,No
+1173,42,Male,Sales,Sales Executive,10172,14,4,3,2,4,Yes
+1174,54,Male,IT,Software Architect,4834,16,1,3,2,2,No
+1175,55,Female,IT,Data Scientist,4092,8,0,3,2,4,No
+1176,27,Male,Operations,Logistics Coordinator,5326,5,1,1,1,2,Yes
+1177,35,Female,Operations,Operations Associate,3296,15,4,3,3,3,No
+1178,41,Female,IT,Software Architect,3995,1,0,4,4,3,No
+1179,60,Male,IT,Data Scientist,7921,10,2,4,2,3,Yes
+1180,51,Male,HR,HR Manager,7182,14,1,2,1,2,No
+1181,48,Male,Finance,Senior Accountant,5416,10,2,2,2,3,No
+1182,53,Male,Finance,Financial Analyst,4275,12,4,4,2,2,No
+1183,40,Female,Sales,Sales Executive,10510,9,0,1,4,2,No
+1184,45,Female,HR,Recruiter,8795,1,0,1,2,3,No
+1185,54,Female,Sales,Sales Representative,11808,8,2,1,2,2,No
+1186,57,Female,HR,HR Associate,5163,6,2,4,1,2,Yes
+1187,52,Female,IT,Data Scientist,5240,19,4,2,3,4,No
+1188,47,Female,HR,HR Manager,8311,16,4,4,3,3,No
+1189,43,Male,Sales,Sales Representative,9624,18,2,1,4,3,No
+1190,36,Male,Operations,Logistics Coordinator,10671,5,1,2,2,2,Yes
+1191,50,Female,IT,Software Engineer,9661,4,1,2,4,4,No
+1192,30,Male,Sales,Sales Manager,11989,10,3,4,3,2,No
+1193,43,Female,Finance,Senior Accountant,7131,19,3,2,2,3,No
+1194,40,Male,IT,Data Scientist,10811,10,3,3,3,3,No
+1195,56,Female,Sales,Sales Manager,9264,11,1,3,1,3,Yes
+1196,38,Female,HR,HR Associate,6305,6,2,3,3,2,No
+1197,59,Male,Sales,Sales Manager,6772,1,0,2,1,2,No
+1198,52,Male,HR,Recruiter,5052,0,0,4,4,3,Yes
+1199,40,Male,HR,HR Associate,4265,20,4,2,1,2,No
+1200,47,Female,IT,Software Engineer,5852,9,0,1,3,4,No
+1201,43,Female,Operations,Operations Manager,10244,20,4,4,2,4,No
+1202,29,Female,HR,HR Manager,5462,14,2,2,1,4,No
+1203,34,Male,HR,Recruiter,9443,13,4,3,1,3,Yes
+1204,52,Female,IT,Data Analyst,6864,0,0,4,2,3,No
+1205,59,Male,HR,HR Associate,7085,20,2,2,1,4,Yes
+1206,32,Female,Finance,Financial Analyst,11033,9,0,3,3,4,No
+1207,30,Female,IT,Data Analyst,5309,14,4,3,4,4,No
+1208,56,Male,Operations,Operations Associate,6854,19,0,4,3,2,No
+1209,25,Male,Operations,Operations Manager,11592,4,0,3,4,2,Yes
+1210,27,Female,Operations,Operations Associate,3711,14,1,4,4,4,No
+1211,51,Female,Sales,Sales Manager,3156,12,2,1,2,4,Yes
+1212,44,Male,Sales,Sales Representative,11666,1,0,4,1,3,No
+1213,48,Female,IT,Data Analyst,9066,14,3,4,1,4,Yes
+1214,33,Female,HR,HR Manager,11464,4,0,1,1,3,No
+1215,56,Female,Operations,Operations Associate,6562,7,1,3,2,3,Yes
+1216,48,Male,Sales,Sales Executive,6743,6,0,1,1,3,Yes
+1217,47,Female,IT,Software Engineer,6639,17,1,1,2,4,No
+1218,58,Female,IT,Data Scientist,6681,9,1,2,4,3,No
+1219,57,Male,HR,HR Manager,9799,17,3,1,3,4,No
+1220,42,Female,Finance,Senior Accountant,9488,4,1,4,2,4,No
+1221,41,Male,IT,Data Analyst,10386,1,0,4,2,3,Yes
+1222,43,Male,HR,HR Manager,10169,11,0,2,1,3,No
+1223,24,Male,Operations,Logistics Coordinator,5882,18,4,2,4,2,No
+1224,22,Male,HR,HR Associate,5913,3,1,2,2,3,Yes
+1225,40,Female,Operations,Operations Associate,10439,17,2,3,3,3,No
+1226,51,Male,Operations,Operations Associate,10492,10,1,3,3,3,No
+1227,36,Male,Sales,Sales Manager,3065,8,2,4,3,2,No
+1228,36,Female,IT,Data Scientist,6826,15,4,3,3,3,No
+1229,32,Female,Finance,Financial Analyst,5573,4,1,2,1,4,Yes
+1230,25,Male,Sales,Sales Manager,9556,4,0,1,2,2,Yes
+1231,45,Male,Operations,Operations Associate,10716,15,0,1,4,2,No
+1232,39,Female,Sales,Sales Manager,3080,16,3,2,1,2,Yes
+1233,55,Female,IT,Data Analyst,8607,8,1,1,3,3,No
+1234,37,Male,Finance,Senior Accountant,7714,2,0,1,4,3,No
+1235,25,Male,Operations,Operations Associate,5607,2,0,4,3,4,Yes
+1236,36,Male,Operations,Operations Manager,10590,8,0,1,3,4,No
+1237,24,Male,Operations,Logistics Coordinator,7952,0,0,2,4,2,No
+1238,58,Female,IT,Data Analyst,11656,10,3,2,1,4,No
+1239,49,Male,Sales,Sales Executive,4045,10,3,3,1,4,No
+1240,36,Female,Finance,Financial Analyst,11860,12,3,2,4,2,No
+1241,37,Male,Operations,Operations Associate,4144,8,0,4,2,4,No
+1242,28,Male,HR,HR Associate,2885,9,3,3,3,2,No
+1243,33,Female,IT,Software Engineer,10153,17,4,4,1,2,Yes
+1244,27,Female,HR,Recruiter,9111,0,0,4,4,2,Yes
+1245,32,Female,Operations,Logistics Coordinator,5577,4,1,3,3,3,Yes
+1246,49,Female,Sales,Sales Executive,9699,9,3,1,3,3,No
+1247,60,Male,IT,Software Architect,10301,3,0,3,1,3,No
+1248,43,Female,Operations,Operations Associate,8284,13,4,2,3,3,No
+1249,34,Female,Operations,Logistics Coordinator,7947,5,1,3,3,4,No
+1250,37,Female,Finance,Senior Accountant,8961,8,1,3,1,4,Yes
+1251,33,Male,Operations,Logistics Coordinator,10363,6,1,3,1,3,No
+1252,37,Female,IT,Data Scientist,5325,13,3,1,4,4,No
+1253,47,Female,Finance,Senior Accountant,11707,1,0,1,1,2,No
+1254,58,Female,IT,Software Engineer,8232,13,0,1,1,3,Yes
+1255,55,Male,Operations,Logistics Coordinator,10103,11,3,4,2,3,Yes
+1256,40,Female,Finance,Accountant,4206,3,0,3,3,3,No
+1257,44,Female,IT,Software Architect,4399,14,3,3,1,3,Yes
+1258,43,Male,Sales,Sales Executive,5492,7,2,2,2,3,No
+1259,47,Male,Finance,Accountant,5853,20,3,4,1,4,Yes
+1260,49,Female,Finance,Senior Accountant,2872,6,0,3,1,4,Yes
+1261,45,Female,Operations,Operations Manager,6028,14,0,3,4,4,No
+1262,46,Female,HR,Recruiter,4671,11,2,4,2,4,No
+1263,27,Male,Operations,Logistics Coordinator,7931,3,0,3,1,2,No
+1264,48,Male,IT,Software Architect,9086,13,1,4,2,4,Yes
+1265,30,Male,Finance,Financial Analyst,7954,14,4,1,3,2,No
+1266,34,Female,Finance,Accountant,12000,16,3,4,4,3,No
+1267,32,Male,Finance,Financial Analyst,3305,7,1,1,3,2,No
+1268,32,Female,Operations,Operations Associate,10915,17,4,1,1,3,No
+1269,50,Male,Operations,Operations Manager,9765,3,0,3,1,3,No
+1270,50,Male,HR,HR Manager,6682,6,2,3,4,2,No
+1271,35,Male,Operations,Operations Manager,3772,18,2,3,2,3,No
+1272,39,Male,HR,Recruiter,5021,13,0,3,2,4,Yes
+1273,42,Male,IT,Data Analyst,9234,15,1,3,4,3,No
+1274,27,Female,Finance,Accountant,11247,8,2,3,4,3,No
+1275,22,Male,HR,Recruiter,10311,20,2,1,4,2,No
+1276,53,Female,Finance,Accountant,8089,9,2,2,4,3,No
+1277,28,Female,Sales,Sales Executive,3066,3,0,4,4,2,No
+1278,41,Male,IT,Data Analyst,7289,2,0,3,1,3,Yes
+1279,41,Male,Sales,Sales Representative,9832,20,0,1,1,2,No
+1280,59,Male,Sales,Sales Executive,11310,14,0,1,3,2,No
+1281,30,Female,Finance,Senior Accountant,3960,7,1,1,1,2,No
+1282,30,Female,HR,HR Associate,4981,20,1,1,1,4,Yes
+1283,35,Male,Finance,Financial Analyst,9545,19,3,2,1,2,Yes
+1284,46,Female,Sales,Sales Manager,9835,10,1,2,3,4,No
+1285,57,Female,Sales,Sales Executive,3239,9,1,2,4,3,No
+1286,53,Female,Sales,Sales Executive,4647,7,1,1,1,3,No
+1287,58,Female,IT,Software Architect,8786,17,1,4,1,2,Yes
+1288,35,Male,Sales,Sales Representative,3790,12,4,3,4,3,No
+1289,56,Male,Finance,Accountant,7346,2,0,1,2,2,No
+1290,26,Female,Finance,Senior Accountant,9967,7,0,2,1,3,Yes
+1291,60,Male,Finance,Senior Accountant,7867,5,0,1,2,4,Yes
+1292,44,Female,IT,Software Architect,5535,11,1,3,1,2,No
+1293,55,Male,Finance,Financial Analyst,7108,18,0,4,4,4,No
+1294,53,Male,HR,HR Manager,8824,5,1,1,1,2,Yes
+1295,37,Male,Sales,Sales Executive,10529,11,3,2,2,2,No
+1296,37,Female,IT,Data Scientist,8041,8,0,3,1,4,Yes
+1297,55,Male,IT,Data Analyst,9368,2,0,3,3,3,Yes
+1298,22,Female,Operations,Operations Associate,6087,9,2,2,4,3,No
+1299,34,Male,Operations,Operations Associate,5266,0,0,1,2,4,No
+1300,22,Female,Sales,Sales Representative,7838,3,0,2,4,3,Yes
+1301,27,Male,IT,Data Scientist,6592,16,3,3,4,4,No
+1302,28,Male,Sales,Sales Manager,9261,2,0,4,2,2,No
+1303,47,Female,HR,HR Associate,8011,14,2,2,1,2,Yes
+1304,31,Male,Operations,Operations Manager,5493,14,3,3,4,2,No
+1305,35,Female,Operations,Operations Associate,7851,14,2,1,1,2,No
+1306,35,Female,Operations,Operations Manager,5230,2,0,3,4,4,Yes
+1307,33,Male,HR,HR Associate,9425,14,4,2,1,3,Yes
+1308,22,Male,IT,Software Engineer,6441,4,0,4,3,4,Yes
+1309,38,Male,Operations,Logistics Coordinator,3157,2,0,4,2,2,No
+1310,51,Male,Sales,Sales Executive,5552,18,3,4,4,2,No
+1311,49,Male,Finance,Senior Accountant,8599,6,0,3,3,3,No
+1312,37,Female,IT,Software Engineer,10973,13,4,4,1,2,No
+1313,48,Male,Finance,Accountant,11414,7,2,1,4,4,No
+1314,56,Female,HR,HR Associate,8436,18,4,3,4,3,No
+1315,42,Male,IT,Software Engineer,3280,8,0,4,3,4,No
+1316,28,Male,IT,Data Analyst,6751,8,2,1,2,4,No
+1317,33,Male,HR,HR Manager,8010,11,0,3,2,4,Yes
+1318,41,Male,Finance,Senior Accountant,10835,1,0,1,2,4,Yes
+1319,52,Male,Sales,Sales Manager,8235,19,1,2,3,4,No
+1320,25,Male,IT,Data Scientist,5220,18,1,1,3,2,No
+1321,47,Male,HR,Recruiter,8314,9,2,2,2,4,No
+1322,42,Male,Finance,Senior Accountant,8646,7,2,2,4,3,No
+1323,33,Male,HR,HR Manager,9215,18,0,2,3,4,No
+1324,53,Male,IT,Software Engineer,8225,2,0,3,3,2,Yes
+1325,22,Female,HR,HR Associate,6235,7,2,1,3,3,No
+1326,22,Male,Sales,Sales Manager,9123,14,3,2,4,3,No
+1327,56,Female,Finance,Financial Analyst,4461,15,4,2,2,3,Yes
+1328,23,Female,Sales,Sales Representative,7078,3,0,3,2,3,Yes
+1329,27,Female,Sales,Sales Manager,10709,0,0,2,4,2,Yes
+1330,35,Male,Sales,Sales Representative,9505,17,4,3,3,3,No
+1331,25,Female,IT,Software Engineer,11805,15,1,1,3,2,No
+1332,40,Female,Finance,Accountant,6071,3,0,2,2,4,No
+1333,29,Female,Sales,Sales Representative,9312,15,3,3,1,4,No
+1334,46,Female,IT,Data Scientist,5856,14,0,3,4,3,No
+1335,39,Male,HR,HR Manager,5276,3,0,3,4,4,Yes
+1336,46,Female,Operations,Operations Manager,11573,15,4,2,4,3,No
+1337,24,Male,Sales,Sales Representative,4770,14,1,2,2,2,Yes
+1338,27,Female,Sales,Sales Representative,6108,20,1,3,3,4,No
+1339,46,Female,Sales,Sales Executive,11844,10,2,4,1,4,No
+1340,31,Male,Sales,Sales Representative,4441,3,0,3,3,3,No
+1341,53,Female,Finance,Senior Accountant,3413,5,1,4,2,4,No
+1342,43,Male,Sales,Sales Representative,3607,15,2,3,1,3,No
+1343,53,Male,HR,HR Associate,6534,4,1,4,3,3,No
+1344,27,Male,Operations,Logistics Coordinator,10037,6,1,4,3,2,No
+1345,26,Female,Operations,Operations Manager,11103,12,1,1,2,2,Yes
+1346,24,Female,Sales,Sales Executive,3628,11,1,3,3,3,No
+1347,29,Male,Operations,Operations Associate,6763,11,3,4,2,3,No
+1348,38,Male,HR,HR Manager,7470,0,0,1,2,4,Yes
+1349,35,Female,IT,Data Analyst,9509,16,0,1,4,2,No
+1350,36,Female,IT,Software Engineer,7804,20,2,4,4,3,No
+1351,35,Female,Finance,Financial Analyst,7750,16,4,4,1,2,No
+1352,60,Female,Operations,Logistics Coordinator,7690,3,1,1,3,3,No
+1353,41,Male,HR,HR Associate,5256,16,1,1,4,4,No
+1354,30,Male,HR,Recruiter,10948,9,2,4,4,3,No
+1355,58,Male,Sales,Sales Manager,8422,7,2,4,3,4,No
+1356,57,Male,HR,HR Manager,7613,3,1,2,3,4,Yes
+1357,27,Male,HR,Recruiter,8620,7,2,3,4,3,No
+1358,59,Female,HR,HR Associate,10398,3,1,1,1,3,Yes
+1359,46,Female,Operations,Operations Manager,9568,1,0,2,2,3,No
+1360,31,Female,Operations,Operations Associate,5754,2,0,3,2,3,Yes
+1361,39,Male,Sales,Sales Representative,5562,18,1,4,1,2,No
+1362,49,Female,Finance,Financial Analyst,9080,0,0,2,3,2,No
+1363,23,Male,Operations,Operations Manager,6876,7,2,3,3,2,No
+1364,54,Female,Sales,Sales Representative,5536,2,0,3,3,3,No
+1365,30,Female,Finance,Senior Accountant,10831,11,1,2,4,2,No
+1366,30,Male,IT,Data Analyst,3159,18,4,2,1,3,Yes
+1367,38,Male,Finance,Senior Accountant,3585,3,0,1,1,3,No
+1368,57,Female,Finance,Accountant,10572,4,0,1,3,3,Yes
+1369,60,Male,Operations,Operations Associate,9662,3,0,3,1,2,No
+1370,38,Male,IT,Data Analyst,8664,13,2,2,1,4,No
+1371,43,Male,IT,Software Architect,2844,0,0,1,4,2,Yes
+1372,28,Female,Operations,Operations Manager,6587,14,2,3,4,2,No
+1373,24,Female,Sales,Sales Executive,8701,10,3,1,1,2,Yes
+1374,43,Female,IT,Data Analyst,9971,19,2,1,3,3,No
+1375,47,Female,IT,Software Engineer,10279,8,1,4,4,4,No
+1376,30,Male,IT,Software Engineer,5411,3,1,4,4,2,No
+1377,23,Male,HR,Recruiter,10714,15,0,4,4,2,No
+1378,42,Male,Sales,Sales Representative,11398,18,4,2,3,4,No
+1379,28,Female,Operations,Logistics Coordinator,6872,15,2,4,2,4,Yes
+1380,32,Female,Sales,Sales Manager,10923,5,0,4,3,2,No
+1381,25,Male,HR,HR Associate,11819,20,3,4,2,2,No
+1382,50,Male,Finance,Senior Accountant,10966,14,2,1,4,4,No
+1383,47,Female,Sales,Sales Executive,3387,17,4,1,1,4,No
+1384,35,Female,Operations,Logistics Coordinator,8384,11,0,2,4,3,No
+1385,60,Female,Operations,Logistics Coordinator,8752,14,0,1,2,2,No
+1386,40,Female,HR,Recruiter,4541,1,0,4,2,4,No
+1387,34,Male,Sales,Sales Representative,4778,12,1,4,2,4,No
+1388,24,Male,Sales,Sales Representative,10181,14,4,2,4,2,No
+1389,25,Female,Operations,Logistics Coordinator,10712,16,1,2,2,2,No
+1390,42,Female,Operations,Logistics Coordinator,9659,19,1,3,4,3,No
+1391,30,Male,HR,HR Associate,9562,19,4,3,3,4,No
+1392,35,Male,Operations,Logistics Coordinator,6235,19,2,3,2,4,Yes
+1393,42,Male,Operations,Logistics Coordinator,8571,17,3,4,3,3,No
+1394,28,Male,Sales,Sales Manager,9040,4,0,1,2,3,Yes
+1395,38,Male,HR,Recruiter,3816,9,1,1,3,3,No
+1396,57,Male,Sales,Sales Manager,11995,12,1,3,1,3,No
+1397,42,Male,Finance,Senior Accountant,3012,8,0,4,2,4,No
+1398,60,Male,Operations,Logistics Coordinator,5970,9,3,2,1,2,Yes
+1399,46,Male,Operations,Operations Manager,9820,8,2,3,2,2,No
+1400,51,Male,Sales,Sales Representative,3454,4,1,1,3,3,No
+1401,42,Male,Sales,Sales Manager,5812,16,0,2,4,4,No
+1402,27,Female,Operations,Operations Associate,6424,6,2,3,3,3,No
+1403,55,Female,HR,HR Manager,11996,20,0,1,3,3,No
+1404,24,Female,IT,Data Analyst,9048,3,1,3,3,2,No
+1405,50,Female,Operations,Logistics Coordinator,3518,9,1,3,1,2,Yes
+1406,22,Male,Operations,Logistics Coordinator,6253,20,1,4,1,2,No
+1407,31,Male,Sales,Sales Manager,10323,10,0,1,1,2,Yes
+1408,26,Male,HR,Recruiter,7037,13,3,4,4,3,No
+1409,46,Male,HR,HR Manager,11562,0,0,1,1,3,Yes
+1410,41,Male,HR,Recruiter,7412,14,3,4,1,3,Yes
+1411,30,Female,Operations,Operations Manager,11741,9,1,3,3,2,No
+1412,31,Male,Operations,Logistics Coordinator,3484,0,0,1,3,2,No
+1413,54,Male,IT,Software Architect,5437,5,0,3,2,2,Yes
+1414,57,Female,Operations,Operations Manager,11805,2,0,1,3,2,Yes
+1415,43,Female,Operations,Operations Associate,4900,20,1,1,3,4,No
+1416,42,Female,Sales,Sales Executive,10183,10,2,2,3,3,No
+1417,22,Female,Finance,Accountant,6833,7,2,4,3,3,No
+1418,52,Female,IT,Data Scientist,10096,11,2,4,1,2,Yes
+1419,56,Male,HR,HR Manager,7112,20,0,1,1,4,Yes
+1420,47,Male,Operations,Logistics Coordinator,3400,17,2,4,2,3,No
+1421,30,Female,IT,Data Scientist,11010,16,0,4,3,4,No
+1422,37,Male,Sales,Sales Manager,11223,4,1,2,2,4,Yes
+1423,24,Male,Finance,Financial Analyst,10789,7,0,3,3,2,No
+1424,35,Female,Sales,Sales Manager,9158,15,3,1,1,4,No
+1425,55,Female,Sales,Sales Manager,7114,18,4,2,4,4,No
+1426,59,Male,Finance,Financial Analyst,11265,8,1,2,4,3,No
+1427,52,Male,HR,HR Associate,11022,4,1,2,2,2,No
+1428,33,Male,IT,Data Analyst,8734,19,0,2,4,3,No
+1429,52,Female,Sales,Sales Representative,6252,18,1,4,1,2,Yes
+1430,30,Male,IT,Data Analyst,5206,1,0,3,2,4,No
+1431,23,Female,Operations,Logistics Coordinator,4204,6,1,4,4,2,No
+1432,60,Male,IT,Software Architect,5779,19,4,3,2,4,No
+1433,59,Male,Finance,Senior Accountant,6565,12,3,2,1,2,Yes
+1434,48,Male,Operations,Logistics Coordinator,4377,5,1,1,1,2,No
+1435,49,Female,IT,Software Engineer,8868,1,0,2,4,3,No
+1436,58,Male,Operations,Logistics Coordinator,9771,4,1,4,2,2,No
+1437,48,Female,Operations,Logistics Coordinator,5896,0,0,1,1,3,Yes
+1438,45,Male,HR,HR Associate,5335,13,4,3,3,4,No
+1439,45,Female,Finance,Senior Accountant,9311,6,1,4,2,3,No
+1440,58,Female,HR,HR Associate,9322,4,0,2,4,4,Yes
+1441,54,Female,Sales,Sales Executive,8344,17,4,1,2,3,Yes
+1442,52,Female,Sales,Sales Executive,4244,2,0,2,3,2,Yes
+1443,55,Female,Finance,Financial Analyst,3741,5,1,4,1,2,No
+1444,60,Male,IT,Software Engineer,5576,1,0,2,1,2,Yes
+1445,44,Female,HR,HR Associate,9442,18,1,1,1,2,No
+1446,44,Female,Operations,Logistics Coordinator,7330,7,2,2,4,3,No
+1447,38,Male,Operations,Operations Manager,9470,16,0,1,3,3,No
+1448,38,Female,Sales,Sales Manager,10054,12,4,4,2,3,No
+1449,23,Female,Finance,Senior Accountant,4704,8,0,4,2,4,Yes
+1450,44,Male,HR,HR Associate,7114,7,1,1,4,4,No
+1451,57,Male,HR,HR Manager,10607,10,2,2,3,2,No
+1452,34,Male,IT,Software Architect,6765,8,0,2,2,2,No
+1453,29,Male,IT,Software Engineer,10871,19,0,1,4,3,No
+1454,53,Female,Operations,Operations Associate,10841,5,1,4,2,4,Yes
+1455,49,Female,Sales,Sales Manager,11659,1,0,4,2,3,Yes
+1456,42,Male,Operations,Operations Associate,2993,6,1,1,3,3,No
+1457,33,Female,Operations,Operations Associate,6685,8,1,3,3,2,No
+1458,35,Female,Finance,Financial Analyst,8899,11,3,3,4,2,No
+1459,58,Male,Operations,Operations Manager,4436,8,0,4,4,2,No
+1460,52,Male,IT,Data Analyst,5693,13,3,2,3,3,No
+1461,57,Male,HR,HR Associate,9327,3,0,1,2,3,No
+1462,43,Female,Sales,Sales Representative,8714,11,2,3,1,3,Yes
+1463,60,Male,HR,Recruiter,11621,5,1,3,3,4,No
+1464,50,Male,Operations,Operations Associate,9043,19,2,4,2,2,No
+1465,58,Female,Finance,Senior Accountant,3968,2,0,3,2,3,No
+1466,39,Female,HR,Recruiter,7244,14,2,4,4,2,No
+1467,30,Male,IT,Software Engineer,6922,2,0,2,4,2,Yes
+1468,57,Male,Sales,Sales Representative,3231,12,4,1,1,3,Yes
+1469,46,Female,Sales,Sales Manager,6557,7,2,3,4,4,No
+1470,55,Male,IT,Data Analyst,3268,1,0,3,4,3,No
+1471,30,Male,Operations,Operations Associate,10280,20,4,4,3,3,No
+1472,36,Male,Finance,Senior Accountant,10039,9,2,4,3,2,No
+1473,22,Male,HR,HR Manager,8434,9,3,1,4,3,No
+1474,49,Female,HR,HR Manager,6588,0,0,2,4,4,No
+1475,32,Female,Finance,Accountant,8999,7,1,1,4,4,No
+1476,40,Female,IT,Data Scientist,9565,6,0,2,2,3,Yes
+1477,50,Female,Finance,Senior Accountant,10860,6,1,1,2,2,Yes
+1478,40,Female,IT,Software Engineer,4848,14,0,2,1,2,Yes
+1479,43,Female,Finance,Accountant,7904,15,2,4,1,3,Yes
+1480,39,Female,IT,Software Engineer,3969,17,3,2,2,3,No
+1481,37,Female,Sales,Sales Executive,10057,7,2,1,2,3,Yes
+1482,35,Female,Operations,Logistics Coordinator,9175,9,2,2,1,4,Yes
+1483,41,Male,HR,HR Associate,8705,1,0,1,2,4,No
+1484,32,Female,HR,HR Manager,4760,12,1,1,1,4,No
+1485,45,Male,Operations,Operations Manager,6875,5,1,1,3,4,No
+1486,44,Male,Sales,Sales Executive,11587,3,0,4,2,3,No
+1487,34,Male,Finance,Senior Accountant,8989,11,1,3,1,3,No
+1488,56,Female,Operations,Operations Associate,5909,18,1,3,3,4,No
+1489,60,Male,Finance,Financial Analyst,3928,16,1,4,3,3,No
+1490,51,Male,Operations,Operations Associate,11089,12,1,1,3,4,No
+1491,26,Female,IT,Data Scientist,5910,16,3,2,3,3,No
+1492,42,Male,Finance,Senior Accountant,4377,16,0,1,2,2,Yes
+1493,53,Male,IT,Software Engineer,4417,1,0,4,3,2,No
+1494,22,Male,IT,Software Engineer,10851,2,0,1,3,4,No
+1495,25,Female,HR,Recruiter,11467,1,0,3,1,2,Yes
+1496,36,Female,Sales,Sales Manager,5904,6,2,2,2,4,No
+1497,58,Female,Sales,Sales Manager,10315,13,0,2,2,4,No
+1498,32,Female,Operations,Operations Associate,8572,10,2,3,4,4,No
+1499,42,Male,Finance,Senior Accountant,11739,6,1,3,3,3,No
+1500,22,Male,Finance,Financial Analyst,7460,19,0,2,3,2,No
